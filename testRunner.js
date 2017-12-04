@@ -1,8 +1,8 @@
 module.exports = class TestRunner {
 	constructor(testCases, puzzleInput, solver) {
-    this.testCases = testCases;
-    this.puzzleInput = puzzleInput;
-    this.solver = solver;
+		this.testCases = testCases;
+		this.puzzleInput = puzzleInput;
+		this.solver = solver;
 	}
 
 	runTests() {

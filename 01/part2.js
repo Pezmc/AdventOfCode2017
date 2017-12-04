@@ -1,4 +1,4 @@
-const TestRunner = require('./testRunner');
+const TestRunner = require('../testRunner');
 
 const testCases = [
 	{ input: '1212', expected: 6 },
